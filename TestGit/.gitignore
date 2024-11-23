@@ -1,0 +1,13 @@
+# Thư mục hệ thống Visual Studio
+.vs/
+bin/
+obj/
+
+# File hệ thống không cần commit
+*.suo
+*.cache
+*.log
+*.user
+
+# Thư mục không cần thiết khác
+TestGit/wwwroot/lib/
